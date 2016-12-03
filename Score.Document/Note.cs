@@ -13,6 +13,7 @@ namespace Score.Document
         public NoteStyle Style;
         public StemStyle StemStyle;
         public int Tuplet;
+        public NoteModifier Modifier;
     }
 
     public enum NoteStyle
