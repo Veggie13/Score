@@ -10,5 +10,6 @@ namespace Score.Document
     {
         public int BaseLength;
         public int DotCount;
+        public int Tuplet;
     }
 }
